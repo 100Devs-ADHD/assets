@@ -1,2 +1,2 @@
 # assets
-Low footprint github assets can be stored here.
+Low footprint GitHub documentation assets can be stored here.
